@@ -4,7 +4,7 @@
 
 | Day | System Design                                       | Status |
 | --: | --------------------------------------------------- | :----: |
-|  01 | [Vending Machine](./day-01-vending-machine)         |   ⬜   |
+|  01 | [Vending Machine](./day-01-vending-machine)         |   ✅   |
 |  02 | [Elevator System](./day-02-elevator-system)         |   ⬜   |
 |  03 | [ATM](./day-03-atm)                                 |   ⬜   |
 |  04 | [Movie Seat Booking](./day-04-movie-seat-booking)   |   ⬜   |
